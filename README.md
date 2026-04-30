@@ -14,6 +14,7 @@ Cisco Networking Academyの知識習得に向けて、ネットワークの基�
 - Cisco Networking Academy アカウント作成済み
 - Cisco Packet Tracer インストール済み
 - 学習環境構築完了
+- Getting Started with Cisco Packet Tracerのコース修了
 
 ## 今後の学習方針
 - コースに沿ってネットワーク全体的に学習を進める
@@ -24,3 +25,14 @@ Cisco Networking Academyの知識習得に向けて、ネットワークの基�
 ## 意識すべきポイント
 「知識を身に付ける」だけでなく、
 「知識を応用する」を重視すること。
+
+## 学習実績
+- Getting Started with Cisco Packet Tracer 修了
+![Getting Started with Cisco Packet Tracer](./images/Cisco%20Packet%20Tracer初級コース終了証.png)
+ - ネットワークの基礎構成の理解
+ - デバイス接続の基礎
+ - Packet Tracerツールの操作方法
+
+## 成長ポイント
+- ネットワーク構成の見方が身に付いてきた
+- 実際に手を動かして理解する習慣が身に付いた
