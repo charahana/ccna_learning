@@ -27,11 +27,21 @@ Cisco Networking Academyの知識習得に向けて、ネットワークの基�
 「知識を応用する」を重視すること。
 
 ## 学習実績
-- Getting Started with Cisco Packet Tracer 修了
+### Getting Started with Cisco Packet Tracer 修了
 ![Getting Started with Cisco Packet Tracer](./images/Cisco%20Packet%20Tracer初級コース終了証.png)
- - ネットワークの基礎構成の理解
- - デバイス接続の基礎
- - Packet Tracerツールの操作方法
+- ネットワークの基礎構成の理解
+- デバイス接続の基礎
+- Packet Tracerツールの操作方法
+
+### ネットワークの探求コース 修了
+![ネットワークの探求コース修了](./images/Cisco Packet Tracerネットワーク探求コース修了証.png)
+- 小規模なネットワーク構築の基礎理解
+- IPアドレスの設定
+- pingによる疎通確認
+- スイッチとルータの役割理解
+- Packet Tracerを利用したネットワーク構築の演習
+- GUIとCLIの基本操作
+- ネットワーク監視とシミュレーションモードの活用
 
 ## 成長ポイント
 - Parket TracerでシンプルなLAN構成を自力で作成できるようになった
