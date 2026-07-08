@@ -3,15 +3,15 @@
 ### 用途
 ネットワークインターフェースの情報を表示する
 ### 良く見る項目
-- ether
+#### ether
 MACアドレス
-- inet
+#### inet
 IPv4アドレス(IPアドレス)
-- inet6
+#### inet6
 IPv6アドレス
-- netmask
+#### netmask
 サブネットマスク
-- broadcast
+#### broadcast
 ブロードキャスト
 ### 覚えておくこと
 - Linuxでは古いコマンド
