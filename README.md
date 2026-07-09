@@ -27,6 +27,19 @@ Cisco Networking Academyの知識習得に向けて、ネットワークの基�
 - Getting Started with Cisco Packet Tracerのコース修了
 - ネットワークの探求コース 修了
 
+## ディレクトリ構成
+ccna_learning/
+├── README.md
+├── glossary.md
+├── command-reference.md
+├── ping-t/
+│   ├── week1.md
+│   ├── week2.md
+│   ├── week3.md
+│   └── week4.md
+├── logs/
+└── images/
+
 ## 今後の学習方針
 - ネットワークの基礎理解を深めながら学習を進める
 - コースに沿ってネットワーク全体的に学習を進める
