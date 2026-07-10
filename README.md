@@ -33,6 +33,7 @@ ccna_learning/
 ├── README.md
 ├── glossary.md
 ├── command-reference.md
+├── number-system-reference.md
 ├── ping-t/
 │   ├── week1.md
 │   ├── week2.md
