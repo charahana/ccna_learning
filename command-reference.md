@@ -148,3 +148,5 @@ ARPテーブルを表示する
 | ip route | ip r | ルート確認 |
 | ss | ss -tuln | 待受ポート確認 |
 | ping | ping -c 4 | 4回だけ送信 |
+| dig | dig @8.8.8.8 google.com | DNSサーバの指定 |
+| tcpdump | tcpdump -i eth0 port 80 | 80番通信の監視 |
