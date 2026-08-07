@@ -22,7 +22,7 @@
 | ------ | ------ |
 | inet | IPv4アドレス |
 | inet6 | IPv6アドレス |
-| state | UP/DOWNの状態 |
+| state | インターフェース状態 |
 | mtu | 最大転送サイズ |
 ### 覚えておくこと
 - ifconfigの後継
