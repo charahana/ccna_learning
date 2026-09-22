@@ -54,7 +54,7 @@ ccna_learning/
 
 ## 意識すべきポイント
 「知識を身に付ける」だけでなく、
-「知識を応用する」を重視すること。
+「なぜそうなるのかを理解して、実際に手を動かして確認する」を意識する。
 
 ## 学習実績
 ### Getting Started with Cisco Packet Tracer 修了
